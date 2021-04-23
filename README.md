@@ -11,4 +11,4 @@ Two screw holes are placed under the enclosure.
 
 There is no over-current protection on the PCB, it's as good as the PSU used with it.
 
-![PCB](Pictures/PCB 1.jpg?raw=true)
+![PCB](Pictures/PCB_1.jpg?raw=true)
