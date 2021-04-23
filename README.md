@@ -10,3 +10,5 @@ The red LED indicates standby power (PSU is ready), the green LED is for power g
 Two screw holes are placed under the enclosure.
 
 There is no over-current protection on the PCB, it's as good as the PSU used with it.
+
+![PCB](Pictures/PCB 1.jpg?raw=true)
